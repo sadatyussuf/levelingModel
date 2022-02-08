@@ -1,4 +1,4 @@
-from utilis.record import Record
+from read_csvfile.record import Record
 
 
 def readFile(filename):
